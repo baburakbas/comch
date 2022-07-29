@@ -21,5 +21,5 @@ go get "github.com/husamettinarabaci/comch@latest"
 ```
 
 ## Developers:
-<img src="https://github.com/HsmTeknoloji/companyfiles/blob/master/hsmtek-logo.png?raw=true" width="200"/>
+<img src="https://github.com/husamettinarabaci/husamettinarabaci/blob/main/hsmtek-logo.png?raw=true" width="200"/>
 Web Site        : www.hsmteknoloji.com <br />
